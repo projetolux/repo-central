@@ -10,4 +10,6 @@ public class Usuario {
 		
 	}
 
+	private int codigo;
+	private String nome;
 }
